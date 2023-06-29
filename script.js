@@ -2,19 +2,19 @@ const buttons = document.querySelectorAll(".button");
 
 const menu = [[{
     text: 'Beer',
-    href: '/beer.html'
+    href: 'beer.html'
 },
 {
     text: 'Vodka',
-    href: '/vodka.html'
+    href: 'vodka.html'
 }],
 [{
     text: 'Chips',
-    href: '/chips.html'
+    href: 'chips.html'
 },
 {
     text: 'Fish',
-    href: '/fish.html'
+    href: 'fish.html'
 }]];
 
 buttons.forEach((button, index) => {
