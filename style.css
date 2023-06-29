@@ -1,0 +1,7 @@
+.list {
+    display: none;
+}
+
+.button.active + .list {
+    display: block;
+}
